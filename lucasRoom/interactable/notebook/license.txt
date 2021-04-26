@@ -1,0 +1,11 @@
+Model Information:
+* title:	Notebook
+* source:	https://sketchfab.com/3d-models/notebook-939b5587e99148e89e5f919201cda14b
+* author:	Artistjodi (https://sketchfab.com/Artistjodi)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Notebook" (https://sketchfab.com/3d-models/notebook-939b5587e99148e89e5f919201cda14b) by Artistjodi (https://sketchfab.com/Artistjodi) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
