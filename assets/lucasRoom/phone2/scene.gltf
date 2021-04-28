@@ -1,0 +1,828 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 133,
+      "max": [
+        0.15033203363418579,
+        0.14804826676845551,
+        0.125
+      ],
+      "min": [
+        -0.1503320187330246,
+        -0.14804801344871521,
+        0.072620421648025513
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1596,
+      "componentType": 5126,
+      "count": 133,
+      "max": [
+        0.99897825717926025,
+        0.98380160331726074,
+        1
+      ],
+      "min": [
+        -0.99897825717926025,
+        -0.98380160331726074,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 133,
+      "max": [
+        1,
+        0.99999666213989258,
+        0.086891829967498779,
+        1
+      ],
+      "min": [
+        -0.98962360620498657,
+        -0.99999666213989258,
+        -0.086891420185565948,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 133,
+      "max": [
+        0.36097130179405212,
+        0.98405224084854126
+      ],
+      "min": [
+        0.028085470199584961,
+        0.66817748546600342
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 432,
+      "max": [
+        132
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3192,
+      "componentType": 5126,
+      "count": 569,
+      "max": [
+        0.8589896559715271,
+        1.5158640146255493,
+        0.10000286251306534
+      ],
+      "min": [
+        -0.85898959636688232,
+        -1.5158641338348389,
+        -0.074043057858943939
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10020,
+      "componentType": 5126,
+      "count": 569,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.98480767011642456,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2128,
+      "componentType": 5126,
+      "count": 569,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -0.86602532863616943,
+        -0.72585606575012207,
+        -1,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1064,
+      "componentType": 5126,
+      "count": 569,
+      "max": [
+        0.99800807237625122,
+        0.69173705577850342
+      ],
+      "min": [
+        0.0019920323975384235,
+        0.0013807126088067889
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1728,
+      "componentType": 5125,
+      "count": 1698,
+      "max": [
+        568
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16848,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.70888620615005493,
+        1.3761836290359497,
+        0.089948028326034546
+      ],
+      "min": [
+        -0.70888650417327881,
+        -1.1208288669586182,
+        0.089948028326034546
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16896,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 11232,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5616,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.72185498476028442,
+        0.62852364778518677
+      ],
+      "min": [
+        0.4144098162651062,
+        0.087044417858123779
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 8520,
+      "componentType": 5125,
+      "count": 6,
+      "max": [
+        3
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16944,
+      "componentType": 5126,
+      "count": 122,
+      "max": [
+        0.20839554071426392,
+        0.04999995231628418,
+        0.05000000074505806
+      ],
+      "min": [
+        -0.042149484157562256,
+        -0.04999995231628418,
+        -0.05000000074505806
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18408,
+      "componentType": 5126,
+      "count": 122,
+      "max": [
+        1,
+        0.99326944351196289,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 11296,
+      "componentType": 5126,
+      "count": 122,
+      "max": [
+        0.09171333909034729,
+        0.9901084303855896,
+        0,
+        1
+      ],
+      "min": [
+        -0.085257135331630707,
+        -0.9901084303855896,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5648,
+      "componentType": 5126,
+      "count": 122,
+      "max": [
+        0.97813522815704346,
+        0.72614133358001709
+      ],
+      "min": [
+        0.88333225250244141,
+        0.47280800342559814
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 8544,
+      "componentType": 5125,
+      "count": 348,
+      "max": [
+        121
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 19872,
+      "componentType": 5126,
+      "count": 122,
+      "max": [
+        0.41019010543823242,
+        0.13312298059463501,
+        0.040842056274414062
+      ],
+      "min": [
+        -0.12527251243591309,
+        0.03312307596206665,
+        -0.040842056274414062
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 21336,
+      "componentType": 5126,
+      "count": 122,
+      "max": [
+        1,
+        0.99207979440689087,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 13248,
+      "componentType": 5126,
+      "count": 122,
+      "max": [
+        0.10043725371360779,
+        0.99327999353408813,
+        0,
+        1
+      ],
+      "min": [
+        -0.092836558818817139,
+        -0.99327993392944336,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6624,
+      "componentType": 5126,
+      "count": 122,
+      "max": [
+        0.42560330033302307,
+        0.97893059253692627
+      ],
+      "min": [
+        0.37334796786308289,
+        0.7283935546875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 9936,
+      "componentType": 5125,
+      "count": 348,
+      "max": [
+        121
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Matt Gilchrist (https://sketchfab.com/MattGilchrist)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/793b092deff04d9fae3a368230bbc06f",
+      "title": "Cell Phone"
+    },
+    "generator": "Sketchfab-3.19.2",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 11328,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7600,
+      "byteOffset": 11328,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22800,
+      "byteOffset": 18928,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15200,
+      "byteOffset": 41728,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 56928,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/PhoneBody_m_baseColor.jpg"
+    },
+    {
+      "uri": "textures/PhoneBody_m_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/PhoneScreen_M_baseColor.jpg"
+    },
+    {
+      "uri": "textures/PhoneScreen_M_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/PhoneButtons_m_baseColor.jpg"
+    },
+    {
+      "uri": "textures/PhoneButtons_m_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "PhoneButtons_m",
+      "occlusionTexture": {
+        "index": 5,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 4,
+          "texCoord": 0
+        },
+        "metallicFactor": 0.56269054880000002,
+        "roughnessFactor": 0.095846036600000017
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "PhoneBody_m",
+      "occlusionTexture": {
+        "index": 1,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "roughnessFactor": 0.35804115849999996
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.0071680424687969235,
+        0.014604236614432,
+        0.025489015840211817
+      ],
+      "name": "PhoneScreen_M",
+      "occlusionTexture": {
+        "index": 3,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "metallicFactor": 0.16634908540000001,
+        "roughnessFactor": 0.10194359760000005
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HomeButton_PhoneButtons_m_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "PhoneBody_PhoneBody_m_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "PhoneBody_PhoneScreen_M_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "PowerButton_PhoneButtons_m_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "VolumeButton_PhoneButtons_m_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23
+          },
+          "indices": 24,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "55dfebbf940a459ba2ed4034ab2d80dc.fbx"
+    },
+    {
+      "children": [
+        4,
+        6,
+        9,
+        11
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1.3224853277206421,
+        -0.020217219367623329,
+        1
+      ],
+      "name": "HomeButton"
+    },
+    {
+      "mesh": 0,
+      "name": "HomeButton_PhoneButtons_m_0"
+    },
+    {
+      "children": [
+        7,
+        8
+      ],
+      "name": "PhoneBody"
+    },
+    {
+      "mesh": 1,
+      "name": "PhoneBody_PhoneBody_m_0"
+    },
+    {
+      "mesh": 2,
+      "name": "PhoneBody_PhoneScreen_M_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -0.72320324182510376,
+        1.4873503446578979,
+        0.007514461874961853,
+        1
+      ],
+      "name": "PowerButton"
+    },
+    {
+      "mesh": 3,
+      "name": "PowerButton_PhoneButtons_m_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        2.2204460492503131e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.2204460492503131e-16,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0.7488519549369812,
+        1.1450568437576294,
+        0.007514461874961853,
+        1
+      ],
+      "name": "VolumeButton"
+    },
+    {
+      "mesh": 4,
+      "name": "VolumeButton_PhoneButtons_m_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
+
