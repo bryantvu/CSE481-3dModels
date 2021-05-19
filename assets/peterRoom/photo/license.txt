@@ -1,0 +1,11 @@
+Model Information:
+* title:	Photo Frame 1
+* source:	https://sketchfab.com/3d-models/photo-frame-1-ffe29f6d3203441cacb6445ce93c4ba0
+* author:	jankeza121 (https://sketchfab.com/jeremiexp121)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Photo Frame 1" (https://sketchfab.com/3d-models/photo-frame-1-ffe29f6d3203441cacb6445ce93c4ba0) by jankeza121 (https://sketchfab.com/jeremiexp121) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
